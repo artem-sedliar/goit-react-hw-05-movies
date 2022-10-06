@@ -6,7 +6,7 @@ import { LoaderWrap } from './Loader.styled';
 const Loader = () => {
   return (
     <LoaderWrap>
-      <Grid color="#2196f3" height={60} width={60} />
+      <Grid color="#2196f3" height={80} width={80} />
     </LoaderWrap>
   );
 };

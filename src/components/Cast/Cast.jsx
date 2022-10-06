@@ -17,7 +17,7 @@ const Cast = () => {
 
   const baseImgUrl = 'https://image.tmdb.org/t/p/w500';
   const defaultImg =
-    'https://www.pngkey.com/png/full/121-1219231_user-default-profile.png';
+    'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbDIQXEOrv1eK2e7UwtKBJomqXojR2JXBSTA&usqp=CAU';
 
   useEffect(() => {
     async function fetchMovieCast() {
